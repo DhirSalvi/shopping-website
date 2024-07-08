@@ -1,0 +1,36 @@
+body{
+    font-family: 'Lato';
+}
+
+
+.left{
+    height: 100%;
+    width: 40%;
+    position: fixed;
+    top:0;
+    left:0;
+    background-color: #ff4000;
+    text-align : center;
+}
+.right{
+    height: 100%;
+    width: 60%;
+    position:fixed;
+    background-color: #000000;
+    margin-left: 40%;
+    left: 0;
+    top: 0;
+    align-content:baseline;
+}
+.login{
+    background-color: #ff4000;
+    color: #fff;
+}
+
+form{
+    color: #fff;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    padding: 10px;
+
+}
